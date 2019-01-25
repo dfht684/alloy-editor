@@ -1,9 +1,9 @@
 {
 	"add": "Add",
-	"ariaUpdateNoToolbar": "No toolbars are available",
+	"ariaUpdateNoToolbar": "No hay barras de herramientas disponibles",
 	"ariaUpdateOneToolbar": "{toolbars} toolbar is available. Press ALT+F10 to focus.",
 	"ariaUpdateManyToolbars": "{toolbars} toolbars are available. Press ALT+F10 to focus.",
-	"camera": "Insert Image from Camera",
+	"camera": "Insertar imagen desde la cámara",
 	"cameraDisabled": "The browser does not support this action, or it is available on https only (Chrome).",
 	"cite": "Cite",
 	"clearInput": "Clear Input Field",
